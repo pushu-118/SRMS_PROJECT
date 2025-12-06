@@ -1,2 +1,7 @@
-1 John 78.5
-2 Maya 88.0
+Roll   Name   Mark
+-------------------
+1   John   78.50
+2   2   22.00
+4   pushpa   87.00
+3   pushpa   79.00
+5   shannu   78.00
